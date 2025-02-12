@@ -8,24 +8,27 @@ What is Link Bubble? It is a web based dynamic community space for interacting a
 - Join or create communities designed for discussion of specific topics 
 - Follow friends
 - 1 on 1 messaging/ sharing posts 
--Posts can be set on a timer to “pop” or be permanent 
+-Posts can be set on a timer to “pop” or be permanent
 
-### Header 3
+* * *
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Technology Stack Overview
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### Front End 
+-HTML
+-CSS
+-Javascript
+
+
+##### Back End 
+-Java 
+-Spring Boot Framework
+
+#### Database
+- SQL 
+
+
+
 
 #### Header 4
 
