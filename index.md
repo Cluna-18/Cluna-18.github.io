@@ -3,7 +3,7 @@
 What is Link Bubble? It is a web based dynamic community space for interacting and sharing content. 
 
 ## What features are included
--Account creation/login
+- Account creation/login
 - Posts with likes, comments, replies to comments, sharing
 - Join or create communities designed for discussion of specific topics 
 - Follow friends
