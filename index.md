@@ -1,12 +1,15 @@
 
 # Link Bubble
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+What is Link Bubble? It is a web based dynamic community space for interacting and sharing content. 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## What features are included
+Features:
+-Account creation/login
+- Posts with likes, comments, replies to comments, sharing
+- Join or create communities designed for discussion of specific topics 
+- Follow friends
+- 1 on 1 messaging/ sharing posts 
+-Posts can be set on a timer to “pop” or be permanent 
 
 ### Header 3
 
