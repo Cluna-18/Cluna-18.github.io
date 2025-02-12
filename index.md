@@ -10,7 +10,9 @@ What is Link Bubble? It is a web based dynamic community space for interacting a
 - 1 on 1 messaging/ sharing posts 
 -Posts can be set on a timer to “pop” or be permanent
 
-* * *
+
+  * * *
+
 
 ## Technology Stack Overview
 
@@ -25,7 +27,10 @@ What is Link Bubble? It is a web based dynamic community space for interacting a
 -Spring Boot Framework
 
 #### Database
-- SQL 
+- SQL
+
+
+  * * *
 
 
 
