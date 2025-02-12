@@ -1,6 +1,7 @@
 
-# Link Bubble
-What is Link Bubble? It is a web based dynamic community space for interacting and sharing content. 
+# What is Link Bubble? 
+
+LinkBubble is a dynamic social media platform designed to foster community interaction through user-generated content. The website allows users to create profiles, share posts, connect with friends, and join interest-based communities. It features real-time interactions and a clean, user-friendly interface.
 
 ## What features are included
 - Account creation/login
@@ -17,105 +18,31 @@ What is Link Bubble? It is a web based dynamic community space for interacting a
 ## Technology Stack Overview
 
 ##### Front End 
--HTML
--CSS
--Javascript
+* Technologies Used: The frontend is built using HTML5, CSS3, and JavaScript, ensuring a responsive and dynamic user interface that adapts to different devices and screen sizes.
+
+* User Interface: Features a clean and modern design with easy navigation. Interactive elements like modals, dropdowns, and responsive forms enhance user engagement.
+
+So from a design aspect, I wanted the website to look modern and clean. I had used bootstrap to help with this goal. If you are unfamiliar with bootstrap, it is an open source CSS framework that allows users to select from a wide selection of templates that make development faster so developers can focus more on development rather than design. I used a bootstrap template as a starting point to get an idea of how I wanted to set up the site and then added changes where I deemed necessary to make it unique and also fit a theme. 
+
 
 
 ##### Back End 
--Java 
--Spring Boot Framework
+* Server-Side Processing: Utilizes Java with the Spring Boot framework for robust server-side logic, handling requests and responses efficiently.
+
+* API Integration: RESTful API architecture facilitates communication between the frontend and the backend, supporting features like user authentication, data retrieval, and post management.
+
+* Security Measures: Implements security best practices such as secure HTTP headers, encrypted passwords, and protection against SQL injection and XSS attacks.
+
+Deployment utilizes Spring Boot’s embedded server capabilities, simplifying the launch process and ensuring compatibility across different environments. Testing across multiple stages ensures stability and performance optimizations.
 
 #### Database
-- SQL
+
+* Data Storage: Uses a relational database management system (RDBMS) to store and manage user data, posts, and community interactions securely.
+* 
+* Schema Design: Well-structured database schema supports efficient data querying and scalability. Relationships between tables are optimized for performance.
 
 
   * * *
 
 
 
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
